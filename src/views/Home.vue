@@ -1,5 +1,5 @@
 <template>
-  <div class="yeying">
+  <div class="dy">
     <div class="yy-top">
       <yy-header @handleshowmenu="handleshowmenu" :showMenu="showMenu"></yy-header>
     </div>
@@ -96,7 +96,7 @@ export default defineComponent({
 .head-user-drop {
   width: 100px;
 }
-.yeying {
+.dy {
   // display: flex;
   height: 100%;
   .yy-top {
